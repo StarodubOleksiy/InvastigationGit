@@ -1,0 +1,1 @@
+package com.company;public class MasterClass {    public MasterClass() {        System.out.println("Creating instance of master class");    }}
