@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40e7f2f9-14ec-40f9-aa4b-d2649881c2b6" name="Default Changelist" comment="" />
+    <list default="true" id="40e7f2f9-14ec-40f9-aa4b-d2649881c2b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/SecondClassCreatedOnSecondBranch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="secondBranch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -134,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1623362021136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Eighth commit. Creating third class on the first branch.">
+      <created>1623362826332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623362826332</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +165,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit. Creating MasterClass.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit. Creating MasterClass.java" />
     <MESSAGE value="Seventh commit. After merging from first branch into master branch." />
-    <option name="LAST_COMMIT_MESSAGE" value="Seventh commit. After merging from first branch into master branch." />
+    <MESSAGE value="Eighth commit. Creating third class on the first branch." />
+    <option name="LAST_COMMIT_MESSAGE" value="Eighth commit. Creating third class on the first branch." />
   </component>
 </project>
