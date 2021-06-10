@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40e7f2f9-14ec-40f9-aa4b-d2649881c2b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/SecondClassCreatedOnSecondBranch.java" afterDir="false" />
+    <list default="true" id="40e7f2f9-14ec-40f9-aa4b-d2649881c2b6" name="Default Changelist" comment="Eighth commit. Creating third class on the first branch.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="secondBranch" />
+        <entry key="$PROJECT_DIR$" value="firstBranch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -147,7 +146,6 @@
       <option name="project" value="LOCAL" />
       <updated>1623362826332</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
@@ -165,7 +163,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit. Creating MasterClass.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit. Creating MasterClass.java" />
     <MESSAGE value="Seventh commit. After merging from first branch into master branch." />
     <MESSAGE value="Eighth commit. Creating third class on the first branch." />
     <option name="LAST_COMMIT_MESSAGE" value="Eighth commit. Creating third class on the first branch." />
