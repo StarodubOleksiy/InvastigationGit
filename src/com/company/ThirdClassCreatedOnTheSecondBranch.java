@@ -1,0 +1,1 @@
+package com.company;public class ThirdClassCreatedOnTheSecondBranch {    public ThirdClassCreatedOnTheSecondBranch() {        System.out.println("Creating instance of third class which was created on second branch.");    }    }
