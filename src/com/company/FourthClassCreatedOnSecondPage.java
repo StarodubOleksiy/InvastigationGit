@@ -1,0 +1,1 @@
+package com.company;public class FourthClassCreatedOnSecondPage {    public FourthClassCreatedOnSecondPage() {        System.out.println("Creating instance of fourth class which was created on second branch.");    }}
