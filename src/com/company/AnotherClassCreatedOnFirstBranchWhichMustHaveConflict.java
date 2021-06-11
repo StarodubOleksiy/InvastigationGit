@@ -1,0 +1,1 @@
+package com.company;public class AnotherClassCreatedOnFirstBranchWhichMustHaveConflict {    public AnotherClassCreatedOnFirstBranchWhichMustHaveConflict() {        System.out.println("First string in AnotherClassCreatedOnFirstBranchWhichMustHaveConflict.java class");    }}
