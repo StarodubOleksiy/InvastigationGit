@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="40e7f2f9-14ec-40f9-aa4b-d2649881c2b6" name="Default Changelist" comment="Eighth commit. Creating third class on the first branch.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ZeroMasterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ZeroMasterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="master" />
+    <option name="BRANCH" value="branchDerivativeFromFirstBranch" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -132,12 +133,12 @@
       <option name="project" value="LOCAL" />
       <updated>1623360211359</updated>
     </task>
-    <task id="LOCAL-00002" summary="Seventh commit. After merging from first branch into master branch.">
-      <created>1623362021136</created>
+    <task id="LOCAL-00002" summary="Threeteenth commit. Creating conflict in ZeroMasterClass on the first branch.">
+      <created>1623398418926</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1623362021136</updated>
+      <updated>1623398418926</updated>
     </task>
     <task id="LOCAL-00003" summary="Eighth commit. Creating third class on the first branch.">
       <created>1623362826332</created>
@@ -146,7 +147,7 @@
       <option name="project" value="LOCAL" />
       <updated>1623362826332</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +166,7 @@
     <MESSAGE value="Second commit. Creating MasterClass.java" />
     <MESSAGE value="Seventh commit. After merging from first branch into master branch." />
     <MESSAGE value="Eighth commit. Creating third class on the first branch." />
-    <option name="LAST_COMMIT_MESSAGE" value="Eighth commit. Creating third class on the first branch." />
+    <MESSAGE value="Threeteenth commit. Creating conflict in ZeroMasterClass on the first branch." />
+    <option name="LAST_COMMIT_MESSAGE" value="Threeteenth commit. Creating conflict in ZeroMasterClass on the first branch." />
   </component>
 </project>
