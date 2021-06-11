@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cfa0786-e955-4d28-8922-3ea59bf5d27f" name="Default Changelist" comment="" />
-    <list default="true" id="40e7f2f9-14ec-40f9-aa4b-d2649881c2b6" name="Default Changelist" comment="Eighth commit. Creating third class on the first branch.">
-      <change beforePath="$PROJECT_DIR$/src/com/company/ZeroMasterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ZeroMasterClass.java" afterDir="false" />
+    <list default="true" id="7cfa0786-e955-4d28-8922-3ea59bf5d27f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ZeroMasterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ZeroMasterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,27 +120,19 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="Sixteenth commit. Editing file gitignore.">
-      <created>1623408856308</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1623408856308</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="40e7f2f9-14ec-40f9-aa4b-d2649881c2b6" name="Default Changelist" comment="" />
-      <created>1623359343332</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1623359343332</updated>
-    </task>
     <task id="LOCAL-00001" summary="Second commit. Creating MasterClass.java">
       <created>1623360211359</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1623360211359</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40e7f2f9-14ec-40f9-aa4b-d2649881c2b6" name="Default Changelist" comment="" />
+      <created>1623359343332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623359343332</updated>
     </task>
     <task id="LOCAL-00002" summary="Threeteenth commit. Creating conflict in ZeroMasterClass on the first branch.">
       <created>1623398418926</created>
