@@ -1,1 +1,1 @@
-package com.company;public class ZeroMasterClass {    public ZeroMasterClass() {        System.out.println("Creating instance of master class");    }}
+package com.company;public class ZeroMasterClass {    public ZeroMasterClass() {        System.out.println("Creating instance of master class");        System.out.println("I am here creating conflict in first class.");    }}
