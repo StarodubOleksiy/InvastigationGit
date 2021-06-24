@@ -1,0 +1,1 @@
+package com.company;public class FifthClassCreatedOnFirstBranch {    public FifthClassCreatedOnFirstBranch() {        System.out.println("Fifth Class which was created on the first branch with purpose to investigate merge command.");    }}
