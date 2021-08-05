@@ -1,1 +1,1 @@
-package com.company;public class Main {    public static void main(String[] args) {	System.out.println("Come commit");    }}
+package com.company;public class Main {    public static void main(String[] args) {	System.out.println("Newest commit on the master branch creatend on fifth of the August 2021 year");	System.out.println("Come commit");    }}
