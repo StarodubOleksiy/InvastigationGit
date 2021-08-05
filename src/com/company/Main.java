@@ -1,1 +1,1 @@
-package com.company;public class Main {    public static void main(String[] args) {	// write your code here    }}
+package com.company;public class Main {    public static void main(String[] args) {        System.out.println("Some commit on the first branch created in purpose to investigate Cherry-pick command");    }}
