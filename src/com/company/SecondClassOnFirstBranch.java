@@ -1,1 +1,1 @@
-package com.company;public class SecondClassOnFirstBranch {    public SecondClassOnFirstBranch() {        System.out.println("Creating instance of second class which was created on first branch.");    }}
+package com.company;public class SecondClassOnFirstBranch {    public SecondClassOnFirstBranch() {        System.out.println("Creating instance of second class which was created on first branch.");        System.out.println("New first change added today on 17 June 2023 year");    }}
